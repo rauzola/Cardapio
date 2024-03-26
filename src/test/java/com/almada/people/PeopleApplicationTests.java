@@ -1,10 +1,10 @@
-package com.example.cardapio;
+package com.almada.people;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CardapioApplicationTests {
+class PeopleApplicationTests {
 
 	@Test
 	void contextLoads() {
