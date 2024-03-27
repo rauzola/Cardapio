@@ -1,9 +1,6 @@
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\dto\response\PersonResponseDTO.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\service\PersonServiceImpl.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\util\PersonMapper.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\service\PersonService.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\controller\PersonController.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\dto\request\PersonRequestDTO.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\entity\Person.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\repository\PersonRepository.java
-C:\Users\raul_\Downloads\CRUD-main\CRUD-main\src\main\java\com\almada\people\PeopleApplication.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\model\FoodRequestDTO.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\controller\FoodController.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\CardapioApplication.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\model\Food.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\model\FoodResponseDTO.java
+C:\www\Java\Cardapio\src\main\java\com\example\cardapio\repository\FoodRepository.java

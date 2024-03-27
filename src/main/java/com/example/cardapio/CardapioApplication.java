@@ -1,13 +1,13 @@
-package com.almada.people;
+package com.example.cardapio;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PeopleApplication {
+public class CardapioApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PeopleApplication.class, args);
+		SpringApplication.run(CardapioApplication.class, args);
 	}
 
 }
